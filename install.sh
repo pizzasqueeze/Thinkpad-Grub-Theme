@@ -4,7 +4,6 @@ set -euo pipefail
 IFS=$'\n\t'
 
 GRUB_THEME='Thinkpad-Grub-Theme'
-#INSTALLER_LANG='English'
 
 # Check dependencies
 INSTALLER_DEPENDENCIES=(
